@@ -1,1 +1,1 @@
-# simpleOp
+# Application set up for operators
